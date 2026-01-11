@@ -1,0 +1,3 @@
+> cd "C:\Users\Priya\Desktop\ITV\ML Projects\medical_insurance Cost Prediction model"
+
+> streamlit run "Medical Insurance Cost.py"
